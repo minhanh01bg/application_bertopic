@@ -1,4 +1,6 @@
-data_test/
-BERTopic/
-models/
-data_face/
+media
+models
+docs
+data_test
+data_face
+BERTopic
